@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure_Term2_SingleLinkedListAssignment", "DataStructure_Term2_SingleLinkedListAssignment\DataStructure_Term2_SingleLinkedListAssignment.csproj", "{A04E7FCF-9602-42A6-ABDB-69EA2C7F576E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04E7FCF-9602-42A6-ABDB-69EA2C7F576E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04E7FCF-9602-42A6-ABDB-69EA2C7F576E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04E7FCF-9602-42A6-ABDB-69EA2C7F576E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04E7FCF-9602-42A6-ABDB-69EA2C7F576E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B0A176-B6C1-4564-926B-F96DC47687BD}
+	EndGlobalSection
+EndGlobal
